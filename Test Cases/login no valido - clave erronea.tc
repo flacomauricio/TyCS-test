@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>login no valido - clave erronea</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6948cb0b-2c74-43f7-acc9-cb23c9d0ae40</testCaseGuid>
+</TestCaseEntity>

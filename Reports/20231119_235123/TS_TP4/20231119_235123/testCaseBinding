@@ -1,0 +1,9 @@
+{"testCaseName":"Test Cases/login -logout","testCaseId":"Test Cases/login -logout","iterationVariableName":""}
+{"testCaseName":"Test Cases/login no valido - clave en blanco","testCaseId":"Test Cases/login no valido - clave en blanco","iterationVariableName":""}
+{"testCaseName":"Test Cases/login no valido - clave erronea","testCaseId":"Test Cases/login no valido - clave erronea","iterationVariableName":""}
+{"testCaseName":"Test Cases/login no Valido - usuario erroneo - verify Element no present","testCaseId":"Test Cases/login no Valido - usuario erroneo - verify Element no present","iterationVariableName":""}
+{"testCaseName":"Test Cases/login no Valido - usuario incorrecto","testCaseId":"Test Cases/login no Valido - usuario incorrecto","iterationVariableName":""}
+{"testCaseName":"Test Cases/login Valido","testCaseId":"Test Cases/login Valido","iterationVariableName":""}
+{"testCaseName":"Test Cases/checkout","testCaseId":"Test Cases/checkout","iterationVariableName":"","bindedValues":{"firstName":"\u0027Pablo\u0027","lastName":"\u0027Roda\u0027","postalCode":"\u00274000\u0027"}}
+{"testCaseName":"Test Cases/checkout","testCaseId":"Test Cases/checkout","iterationVariableName":"","bindedValues":{"firstName":"\u0027Claudia\u0027","lastName":"\u0027Nieva\u0027","postalCode":"\u00274000\u0027"}}
+{"testCaseName":"Test Cases/checkout","testCaseId":"Test Cases/checkout","iterationVariableName":"","bindedValues":{"firstName":"\u0027Walter \u0027","lastName":"\u0027Nieva\u0027","postalCode":"\u00274000\u0027"}}

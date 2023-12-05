@@ -1,0 +1,6 @@
+{"testCaseName":"Test Cases/login -logout","testCaseId":"Test Cases/login -logout","iterationVariableName":""}
+{"testCaseName":"Test Cases/login no valido - clave en blanco","testCaseId":"Test Cases/login no valido - clave en blanco","iterationVariableName":""}
+{"testCaseName":"Test Cases/login no valido - clave erronea","testCaseId":"Test Cases/login no valido - clave erronea","iterationVariableName":""}
+{"testCaseName":"Test Cases/login no Valido - usuario erroneo - verify Element no present","testCaseId":"Test Cases/login no Valido - usuario erroneo - verify Element no present","iterationVariableName":""}
+{"testCaseName":"Test Cases/login no Valido - usuario incorrecto","testCaseId":"Test Cases/login no Valido - usuario incorrecto","iterationVariableName":""}
+{"testCaseName":"Test Cases/login Valido","testCaseId":"Test Cases/login Valido","iterationVariableName":""}

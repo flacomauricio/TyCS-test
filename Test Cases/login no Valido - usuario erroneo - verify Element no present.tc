@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>login no Valido - usuario erroneo - verify Element no present</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a01ae4f1-441b-4fbe-a05a-998d004fd295</testCaseGuid>
+</TestCaseEntity>
